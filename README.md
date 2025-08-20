@@ -5,6 +5,9 @@ Users ask a question, the Oracle replies in a short, poetic style, and cards are
 Built with **Streamlit** and **Groq** (Llama 3) and styled with a starry dark theme.
 
 
+## 🌌 Live Demo
+
+👉 [**Try the app here**](https://oracle-chat-app.streamlit.app/)  
 
 ---
 
